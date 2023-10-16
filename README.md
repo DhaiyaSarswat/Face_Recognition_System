@@ -9,3 +9,7 @@ path='C:\\Users\\shaur\\PycharmProjects\\pythonProject2\\ImagesBasic'
 Changed to:
 path='Your Folder Where Images are Stored'
 
+Older:
+image_path=PhotoImage(file="C:\\Users\\shaur\\Downloads\\schtgJ.png")
+Changed to:
+image_path=PhotoImage(file="Path of BG image")
